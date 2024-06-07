@@ -27,8 +27,8 @@ class LoginController extends BaseController
         if (!$this->validate($rule, $errors)) {
             return view('v_login/login', [
                 "validation" => $this->validator,
-                'title' => 'Aplikasi Penjualan Barang Minimarket',
-                'descriptions' => 'Web ini untuk transaksi penjualan barang di minimarket',
+                'title' => 'Aplikasi Penjualan Aksesoris Komputer',
+                'descriptions' => 'Web ini untuk transaksi penjualan aksesoris komputer',
                 'author' => '2022101009 - Bagas Aditya Silalahi'
             ]);
         }
