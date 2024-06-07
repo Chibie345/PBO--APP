@@ -17,12 +17,12 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b> <strong>Warung Bagas</strong></b></a>
+    <a href="../../index2.html"><b> <strong>Aplikasi Penjualan Aksesoris Komputer</strong></b></a>
   </div>
   <!-- /.login-logo -->
   <div class="card">
     <div class="card-body login-card-body">
-      <p class="login-box-msg">Sign in to start your session</p>
+      <p class="login-box-msg"> Sign in to enter the computer accessories sales application</p>
 
       <form action="../../index3.html" method="post">
         <div class="input-group mb-3">
